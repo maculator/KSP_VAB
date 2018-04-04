@@ -1,2 +1,1 @@
-# KSP_VAB
-My KSP Crafts from the VAB
+Contains my stock crafts from the VAB.
